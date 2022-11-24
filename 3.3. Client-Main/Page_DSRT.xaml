@@ -1,0 +1,60 @@
+﻿<Page x:Class="Akhi_Okhee._3._3._Client_Main.Page_DSRT"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Akhi_Okhee._3._3._Client_Main"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Page_DSRT" Background="#FFECEB" Name="root_dsrt">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30" />
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Rectangle Grid.Row="0" Fill="#5D576B" HorizontalAlignment="Left" Width="{Binding ActualWidth, ElementName=root_dsrt}"/>
+        <Label Grid.Row="0" Name="nama"  Content="DSRT" FontSize="12"  Width="429" Margin="10,0,0,4" VerticalAlignment="Bottom" HorizontalAlignment="Left" Height="26" FontWeight="Bold" Foreground="White"/>
+        <Grid Grid.Row="1" Width="{Binding ActualWidth, ElementName=root_dsrt}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="250"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Rectangle Grid.Column="0" Fill="#AAA5B6" HorizontalAlignment="Left" Width="{Binding ActualWidth, ElementName=root_dsrt}"/>
+            <Label Content="Provinsi :" HorizontalAlignment="Left" Margin="22,30,0,0" VerticalAlignment="Top" />
+            <ComboBox VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Height="28" Name="provinsi" HorizontalAlignment="Left" Margin="22,55,0,0" VerticalAlignment="Top" Width="200" SelectionChanged="populate"/>
+            <Label Content="Kabupaten :" HorizontalAlignment="Left" Margin="22,85,0,0" VerticalAlignment="Top"/>
+            <ComboBox VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Height="28" Name ="kabupaten" HorizontalAlignment="Left" Margin="22,110,0,0" VerticalAlignment="Top" Width="200" SelectionChanged="populate"/>
+            <Label Content="Kecamatan :" HorizontalAlignment="Left" Margin="24,140,0,0" VerticalAlignment="Top" Grid.Row="1"/>
+            <ComboBox VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Height="28" x:Name ="kecamatan" HorizontalAlignment="Left" Margin="22,165,0,0" VerticalAlignment="Top" Width="200" Grid.Row="1" SelectionChanged="populate"/>
+            <Label Content="Cari :" HorizontalAlignment="Left" Margin="22,195,0,0" VerticalAlignment="Top" />
+            <TextBox Name="search" HorizontalAlignment="Left" VerticalContentAlignment="Center" HorizontalContentAlignment="Left" Height="28" Margin="22,220,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" TextChanged="refresh"/>
+            <Grid Grid.Column="1" Name="barang_content">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="60"/>
+                </Grid.RowDefinitions>
+                <ListView Grid.Column="0" Name="list_DSRT" HorizontalAlignment="Left" VerticalAlignment="Top" Background="#FFECEB" Margin="0,0,0,0">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn DisplayMemberBinding="{Binding Path=R101._Data}" Header="Prov" Width="70"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding Path=R102._Data}" Header="Kab" Width="70"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding Path=R103._Data}" Header="Kec" Width="70"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding Path=R106._Data}" Header="NKS" Width="150"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding Path=R109._Data}" Header="Nama" Width="400"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+
+                <Button Name="template" Content="[F11] Template" HorizontalAlignment="Left"  Grid.Row="1" VerticalAlignment="Bottom" Width="120" Margin="21,0,0,15" Height="25" Click="aksi_template" />
+                <Button Name="import" Content="[F12] Import" HorizontalAlignment="Left"  Grid.Row="1" VerticalAlignment="Bottom" Width="120" Margin="157,0,0,15" Height="25" Click="aksi_import" />
+                <Button Name="hapus" Content="[Del] Hapus" HorizontalAlignment="Left"  Grid.Row="1" VerticalAlignment="Bottom" Width="120" Margin="292,0,0,15" Height="25" Click="aksi_hapus" />
+
+                <Button Name="tw2" Content="Generate Tw 2" HorizontalAlignment="Left"  Grid.Row="1" VerticalAlignment="Bottom" Width="120" Margin="500,0,0,15" Height="25" Click="aksi_generate" />
+                <Button Name="tw3" Content="Generate Tw 3" HorizontalAlignment="Left"  Grid.Row="1" VerticalAlignment="Bottom" Width="120" Margin="636,0,0,15" Height="25" Click="aksi_generate" />
+                <Button Name="tw4" Content="Generate Tw 4" HorizontalAlignment="Left"  Grid.Row="1" VerticalAlignment="Bottom" Width="120" Margin="772,0,0,15" Height="25" Click="aksi_generate" />
+
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>

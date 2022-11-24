@@ -1,0 +1,17 @@
+﻿<Window x:Class="Akhi_Okhee._3._1._Client_Login.setting"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Akhi_Okhee._3._1._Client_Login"
+        mc:Ignorable="d"
+        Title="Database" Height="166.894" Width="452.404" ResizeMode="NoResize"
+        Background="#CDD7D6"
+        Icon="/Akhi Okhee;component/0. Assets/Ikon-02.png"
+        WindowStartupLocation="CenterScreen">
+    <Grid Margin="0,0,4,4">
+        <Button Name="button_buat" Content="Buat Basis Data" HorizontalAlignment="Left" Margin="33,21,0,0" VerticalAlignment="Top" Width="101" Height="26"  Click="aksi_database_buat"/>
+        <Button Name="button_restore" Content="Restore Cadangan Basis Data" HorizontalAlignment="Left" Margin="33,83,0,0" VerticalAlignment="Top" Width="164" Height="26"  Click="aksi_database_restore"/>
+        <Button Name="button_backup" Content="Buat Cadangan Basis Data" HorizontalAlignment="Left" Margin="33,52,0,0" VerticalAlignment="Top" Width="164" Height="26"  Click="aksi_database_backup"/>
+    </Grid>
+</Window>

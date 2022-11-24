@@ -1,0 +1,46 @@
+﻿<Page x:Class="Akhi_Okhee._3._3._Client_Main.Page_Akun"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Akhi_Okhee._3._3._Client_Main"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Page_Akun" Background="#FFECEB" Name="root_akun">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30" />
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Rectangle Grid.Row="0" Fill="#5D576B" HorizontalAlignment="Left" Width="{Binding ActualWidth, ElementName=root_akun}"/>
+        <Label Grid.Row="0" Name="nama"  Content="Akun" FontSize="12"  Width="429" Margin="10,0,0,4" VerticalAlignment="Bottom" HorizontalAlignment="Left" Height="26" FontWeight="Bold" Foreground="White"/>
+        <Grid Grid.Row="1" Width="{Binding ActualWidth, ElementName=root_akun}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="250"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Rectangle Grid.Column="0" Fill="#AAA5B6" HorizontalAlignment="Left" Width="{Binding ActualWidth, ElementName=root_akun}"/>
+            <Grid Grid.Column="1" Name="barang_content">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="60"/>
+                </Grid.RowDefinitions>
+                <ListView Grid.Column="0" HorizontalAlignment="Left" Height="371" VerticalAlignment="Top" Background="#FFECEB" Name="listAkun">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn DisplayMemberBinding="{Binding Path=Username}" Header="UserName" Width="200"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding Path=Nama}" Header="Nama" Width="250"/>
+                            <GridViewColumn DisplayMemberBinding="{Binding Path=Status_string}" Header="Jenis Akun" Width="150"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+
+                <Button Name="add" Content="Tambah" HorizontalAlignment="Right"  Grid.Row="1" VerticalAlignment="Bottom" Width="90" Margin="0,0,260,15" Height="25" Click="add_Click" />
+                <Button Name="edit" Content="Ubah" HorizontalAlignment="Right"  Grid.Row="1" VerticalAlignment="Bottom" Width="90" Margin="0,0,160,15" Height="25" Click="edit_Click" />
+                <Button Name="del" Content="Hapus" HorizontalAlignment="Right"  Grid.Row="1" VerticalAlignment="Bottom" Width="90" Margin="0,0,60,15" Height="25" Click="del_Click" />
+
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>

@@ -1,0 +1,23 @@
+﻿<Window x:Class="Akhi_Okhee._3._3._Client_Main.Dialog_DSRT"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Akhi_Okhee._3._3._Client_Main"
+        mc:Ignorable="d"
+        Background="#CDD7D6"
+         Icon="/Akhi Okhee;component/0. Assets/Ikon-02.png"
+        Title="Dialog_DSRT" Height="450" Width="409.759">
+    <Grid Margin="0,0,0,8" HorizontalAlignment="Left" Width="400">
+        <Label Name="judul"  Content="Ubah Pengguna Aplikasi:" HorizontalAlignment="Center" Margin="112,13,112,0" VerticalAlignment="Top" FontWeight="Bold" Width="156" />
+        <Label Content="Username :" HorizontalAlignment="Center" Margin="213,39,90,0" VerticalAlignment="Top"  Width="77"/>
+        <Label Content="Nama :" HorizontalAlignment="Center" Margin="229,95,99,0" VerticalAlignment="Top"  Width="52"/>
+        <Label Content="Password :" HorizontalAlignment="Center" Margin="221,150,90,0" VerticalAlignment="Top"  Width="69"/>
+        <TextBox Name="username"  HorizontalAlignment="Left" Height="28" Margin="151,65,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="205" VerticalContentAlignment="Center"/>
+        <TextBox Name="nama"  HorizontalAlignment="Left" Height="28" Margin="151,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="205" VerticalContentAlignment="Center"/>
+        <PasswordBox Name="password" HorizontalAlignment="Left" Height="26" Margin="151,175,0,0" VerticalAlignment="Top" Width="205" VerticalContentAlignment="Center"/>
+        <Button Content="Simpan" HorizontalAlignment="Left" Height="27" Margin="160,230,0,0" VerticalAlignment="Top" Width="82" Click="aksi_simpan"/>
+        <Button Content="Batal" HorizontalAlignment="Left" Height="27" Margin="268,230,0,0" VerticalAlignment="Top" Width="82" Click="aksi_cancel"/>
+        <Label Content="Username tidak boleh kosong" Name="errorText" HorizontalAlignment="Center" Margin="146,200,29,0" VerticalAlignment="Top" Width="205" FontSize="10"/>
+    </Grid>
+</Window>

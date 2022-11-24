@@ -1,0 +1,47 @@
+﻿<UserControl x:Class="Akhi_Okhee._3._4._Client_Dokumen._301"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Akhi_Okhee._3._4._Client_Dokumen"
+      mc:Ignorable="d" 
+      Height="100" Width="780" Background="White"
+      xmlns:common="clr-namespace:Akhi_Okhee._1._Common">
+    <UserControl.Resources>
+        <common:NumberConverter x:Key="NumberConverter"/>
+        <common:DoubleConverter x:Key="DoubleConverter"/>
+    </UserControl.Resources>
+    <Grid HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,0,0,0" Width="750" Height="80">
+        <Rectangle Name="Rect_barang" Height="60" Width="155" Fill="White" HorizontalAlignment="Left"  VerticalAlignment="Top"  Margin="0,0,0,5" Stroke="Black"/>
+        <Rectangle Name="Rect_R301k5" Height="60" Width="80" Fill="White" HorizontalAlignment="Left"  VerticalAlignment="Top"  Margin="309,0,0,5" Stroke="Black"/>
+        <Rectangle Name="Rect_R301k10" Height="60" Width="49" Fill="White" HorizontalAlignment="Left"  VerticalAlignment="Top"  Margin="688,0,0,5" Stroke="Black"/>
+        <Rectangle Height="60" Width="49" Fill="White" HorizontalAlignment="Left"  VerticalAlignment="Top"  Margin="154,0,0,5" Stroke="Black" />
+        <Rectangle Name="Rect_R301k4" Height="60" Width="60" Fill="White" HorizontalAlignment="Left"  VerticalAlignment="Top"  Margin="250,0,0,5" Stroke="Black"/>
+        <Rectangle Name="Rect_R301k6" Height="60" Width="82" Fill="White" HorizontalAlignment="Left"  VerticalAlignment="Top"  Margin="388,0,0,5" Stroke="Black"/>
+        <Rectangle Name="Rect_R301k8" Height="60" Width="80" Fill="White" HorizontalAlignment="Left"  VerticalAlignment="Top"  Margin="528,0,0,5" Stroke="Black"/>
+        <Rectangle Name="Rect_R301k7" Height="60" Width="60" Fill="White" HorizontalAlignment="Left"  VerticalAlignment="Top"  Margin="469,0,0,5" Stroke="Black"/>
+        <Rectangle Name="Rect_R301k9" Height="60" Width="82" Fill="White" HorizontalAlignment="Left"  VerticalAlignment="Top"  Margin="607,0,0,5" Stroke="Black"/>
+        <Rectangle Height="60" Width="49" Fill="White" HorizontalAlignment="Left"  VerticalAlignment="Top"  Margin="202,0,0,5" Stroke="Black"/>
+        <Rectangle Height="41" Width="737" Fill="White" HorizontalAlignment="Left"  VerticalAlignment="Top"  Margin="0,59,0,-20" Stroke="Black" />
+
+        <ComboBox Name="combo_barang" HorizontalAlignment="Left" VerticalAlignment="Top" Width="144" Margin="5,20,0,0" SelectionChanged="aksi_ganti_barang"/>
+        <Label Name="R301K2" HorizontalAlignment="Left" Height="26" Margin="155,18,0,0" VerticalAlignment="Top" Width="47" HorizontalContentAlignment="Center"/>
+        <Label Name="R301K3" HorizontalAlignment="Left" Height="26" Margin="203,18,0,0" VerticalAlignment="Top" Width="47" HorizontalContentAlignment="Center"/>
+        <TextBox IsEnabled="False" Name="R301K4" Text="{Binding Path=R301k4.Data, Mode=TwoWay, Converter={StaticResource DoubleConverter}}" HorizontalAlignment="Left" Height="23" Margin="256,21,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="48"/>
+        <TextBox IsEnabled="False" Name="R301K5" Text="{Binding Path=R301k5.Data, Mode=TwoWay, Converter={StaticResource NumberConverter}}" HorizontalAlignment="Left" Height="23" Margin="315,21,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="68"/>
+        <TextBox IsEnabled="False" Name="R301K6" Text="{Binding Path=R301k6.Data, Mode=TwoWay, Converter={StaticResource NumberConverter}}" HorizontalAlignment="Left" Height="23" Margin="394,21,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="70" RenderTransformOrigin="4.535,1.304"/>
+        <TextBox IsEnabled="False" Name="R301K7" Text="" HorizontalAlignment="Left" Height="23" Margin="475,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="48" KeyDown="decimal_keydown" KeyUp="decimal_key_up" LostFocus="R301K7_LostFocus"/>
+        <TextBox IsEnabled="False" Name="R301K8" Text="{Binding Path=R301k8.Data, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, Converter={StaticResource NumberConverter}}" HorizontalAlignment="Left" Height="23" Margin="534,21,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="68" PreviewTextInput="NumberValidationTextBox"/>
+        <TextBox IsEnabled="False" Name="R301K9" HorizontalAlignment="Left" Height="23" Margin="613,21,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="70" PreviewTextInput="DoubleValidationTextBox"/>
+        <TextBox IsEnabled="False" Name="R301K10" Text="{Binding Path=R301k10._Data, Mode=TwoWay}" HorizontalAlignment="Left" Height="23" Margin="694,21,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="38"/>
+        <TextBox HorizontalAlignment="Left" Height="22" Margin="98,69,0,-11" TextWrapping="Wrap" Text="{Binding Path=R301catatan.Data}" VerticalAlignment="Top" Width="628"/>
+        <Button Click="aksi_delete" Padding="0,4,0,2" Background="White" Margin="736,0,-30,-20" BorderThickness="1" BorderBrush="Black">
+            <StackPanel Orientation="Vertical">
+                <Image Name="delete" Source="/0. Assets/trash.png" Width="30" ></Image>
+            </StackPanel>
+        </Button>
+        <Button Name="konversi" Content="konversi" HorizontalAlignment="Left" Margin="475,38,0,0" VerticalAlignment="Top" Width="48" Height="16" FontSize="8" Click="aksi_konversi"/>
+        <Label Content="CATATAN" HorizontalAlignment="Left" Height="26" Margin="10,65,0,-11" VerticalAlignment="Top" Width="100" HorizontalContentAlignment="Center" RenderTransformOrigin="-0.938,2.29"/>
+
+    </Grid>
+</UserControl>

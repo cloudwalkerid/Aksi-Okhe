@@ -1,0 +1,436 @@
+G:\Akhi Okhee\bin\Debug\Akhi Okhee.exe.config
+G:\Akhi Okhee\bin\Debug\Akhi Okhee.exe
+G:\Akhi Okhee\bin\Debug\Akhi Okhee.pdb
+G:\Akhi Okhee\obj\Debug\Akhi Okhee.csprojAssemblyReference.cache
+G:\Akhi Okhee\obj\Debug\3.1. Client-Login\Main.g.cs
+G:\Akhi Okhee\obj\Debug\3.2. Client-Database\Main.g.cs
+G:\Akhi Okhee\obj\Debug\3.3. Client-Main\Main.g.cs
+G:\Akhi Okhee\obj\Debug\3.3. Client-Main\Page_Barang.g.cs
+G:\Akhi Okhee\obj\Debug\3.3. Client-Main\Page_DSRT.g.cs
+G:\Akhi Okhee\obj\Debug\3.3. Client-Main\Page_Entri.g.cs
+G:\Akhi Okhee\obj\Debug\3.3. Client-Main\UC_Item_Entri.g.cs
+G:\Akhi Okhee\obj\Debug\3.4. Client-Dokumen\Main.g.cs
+G:\Akhi Okhee\obj\Debug\3.4. Client-Dokumen\Page_1.g.cs
+G:\Akhi Okhee\obj\Debug\3.4. Client-Dokumen\Page_2.g.cs
+G:\Akhi Okhee\obj\Debug\3.4. Client-Dokumen\UC_R301_Iter.g.cs
+G:\Akhi Okhee\obj\Debug\MainWindow.g.cs
+G:\Akhi Okhee\obj\Debug\App.g.cs
+G:\Akhi Okhee\obj\Debug\Akhi Okhee_MarkupCompile.cache
+G:\Akhi Okhee\obj\Debug\Akhi Okhee_MarkupCompile.lref
+G:\Akhi Okhee\obj\Debug\3.1. Client-Login\Main.baml
+G:\Akhi Okhee\obj\Debug\3.2. Client-Database\Main.baml
+G:\Akhi Okhee\obj\Debug\3.3. Client-Main\Main.baml
+G:\Akhi Okhee\obj\Debug\3.3. Client-Main\Page_Barang.baml
+G:\Akhi Okhee\obj\Debug\3.3. Client-Main\Page_DSRT.baml
+G:\Akhi Okhee\obj\Debug\3.3. Client-Main\Page_Entri.baml
+G:\Akhi Okhee\obj\Debug\3.3. Client-Main\UC_Item_Entri.baml
+G:\Akhi Okhee\obj\Debug\3.4. Client-Dokumen\Main.baml
+G:\Akhi Okhee\obj\Debug\3.4. Client-Dokumen\Page_1.baml
+G:\Akhi Okhee\obj\Debug\3.4. Client-Dokumen\Page_2.baml
+G:\Akhi Okhee\obj\Debug\3.4. Client-Dokumen\UC_R301_Iter.baml
+G:\Akhi Okhee\obj\Debug\MainWindow.baml
+G:\Akhi Okhee\obj\Debug\Akhi Okhee.g.resources
+G:\Akhi Okhee\obj\Debug\Akhi_Okhee.Properties.Resources.resources
+G:\Akhi Okhee\obj\Debug\Akhi Okhee.csproj.GenerateResource.cache
+G:\Akhi Okhee\obj\Debug\Akhi Okhee.csproj.CoreCompileInputs.cache
+G:\Akhi Okhee\obj\Debug\Akhi Okhee.exe
+G:\Akhi Okhee\obj\Debug\Akhi Okhee.pdb
+G:\Akhi Okhee\obj\Debug\3.1. Client-Login\setting.g.cs
+G:\Akhi Okhee\obj\Debug\3.1. Client-Login\setting.baml
+D:\Akhi Okhee\obj\Debug\Akhi Okhee.csprojAssemblyReference.cache
+D:\Akhi Okhee\obj\Debug\3.1. Client-Login\Main.g.cs
+D:\Akhi Okhee\obj\Debug\3.1. Client-Login\setting.g.cs
+D:\Akhi Okhee\obj\Debug\3.2. Client-Database\Main.g.cs
+D:\Akhi Okhee\obj\Debug\3.3. Client-Main\Main.g.cs
+D:\Akhi Okhee\obj\Debug\3.3. Client-Main\Page_Barang.g.cs
+D:\Akhi Okhee\obj\Debug\3.3. Client-Main\Page_DSRT.g.cs
+D:\Akhi Okhee\obj\Debug\3.3. Client-Main\Page_Entri.g.cs
+D:\Akhi Okhee\obj\Debug\3.3. Client-Main\UC_Item_Entri.g.cs
+D:\Akhi Okhee\obj\Debug\3.4. Client-Dokumen\Main.g.cs
+D:\Akhi Okhee\obj\Debug\3.4. Client-Dokumen\Page_1.g.cs
+D:\Akhi Okhee\obj\Debug\3.4. Client-Dokumen\Page_2.g.cs
+D:\Akhi Okhee\obj\Debug\3.4. Client-Dokumen\UC_R301_Iter.g.cs
+D:\Akhi Okhee\obj\Debug\MainWindow.g.cs
+D:\Akhi Okhee\obj\Debug\App.g.cs
+D:\Akhi Okhee\obj\Debug\Akhi Okhee_MarkupCompile.cache
+D:\Akhi Okhee\obj\Debug\Akhi Okhee_MarkupCompile.lref
+D:\Akhi Okhee\obj\Debug\Akhi Okhee.exe
+D:\Akhi Okhee\obj\Debug\Akhi Okhee.pdb
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\Akhi Okhee.csprojAssemblyReference.cache
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\3.1. Client-Login\Main.g.cs
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\3.1. Client-Login\setting.g.cs
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\3.3. Client-Main\Main.g.cs
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\3.3. Client-Main\Page_Barang.g.cs
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\3.3. Client-Main\Page_DSRT.g.cs
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\3.3. Client-Main\Page_Entri.g.cs
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\3.4. Client-Dokumen\Main.g.cs
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\3.4. Client-Dokumen\Page_1.g.cs
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\3.4. Client-Dokumen\Page_2.g.cs
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\MainWindow.g.cs
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\App.g.cs
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\Akhi Okhee_MarkupCompile.cache
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\Akhi Okhee_MarkupCompile.lref
+E:\Pengembangan\Project C\Akhi Okhee\bin\Debug\Akhi Okhee.exe.config
+E:\Pengembangan\Project C\Akhi Okhee\bin\Debug\Akhi Okhee.exe
+E:\Pengembangan\Project C\Akhi Okhee\bin\Debug\Akhi Okhee.pdb
+E:\Pengembangan\Project C\Akhi Okhee\bin\Debug\EntityFramework.dll
+E:\Pengembangan\Project C\Akhi Okhee\bin\Debug\EntityFramework.SqlServer.dll
+E:\Pengembangan\Project C\Akhi Okhee\bin\Debug\EntityFramework.xml
+E:\Pengembangan\Project C\Akhi Okhee\bin\Debug\EntityFramework.SqlServer.xml
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\3.1. Client-Login\Main.baml
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\3.1. Client-Login\setting.baml
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\3.3. Client-Main\Main.baml
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\3.3. Client-Main\Page_Barang.baml
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\3.3. Client-Main\Page_DSRT.baml
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\3.3. Client-Main\Page_Entri.baml
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\3.4. Client-Dokumen\Main.baml
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\3.4. Client-Dokumen\Page_1.baml
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\3.4. Client-Dokumen\Page_2.baml
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\MainWindow.baml
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\Akhi Okhee.g.resources
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\Akhi_Okhee.Properties.Resources.resources
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\Akhi Okhee.csproj.GenerateResource.cache
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\Akhi Okhee.csproj.CoreCompileInputs.cache
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\Akhi Okhee.csproj.CopyComplete
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\Akhi Okhee.exe
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\Akhi Okhee.pdb
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\Akhi_Okhee._0._Assets.Res1.resources
+E:\Pengembangan\Project C\Akhi Okhee\bin\Debug\0. Assets\Res1.resx
+E:\Pengembangan\Project C\Akhi Okhee\bin\Debug\0. Assets\Res1.Designer.cs
+E:\Pengembangan\Project C\Akhi Okhee\bin\Debug\0. Assets\desa.csv
+E:\Pengembangan\Project C\Akhi Okhee\bin\Debug\0. Assets\kec.csv
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\3.3. Client-Main\Page_Entri_Item.g.cs
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\3.4. Client-Dokumen\301.g.cs
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\3.3. Client-Main\Page_Entri_Item.baml
+E:\Pengembangan\Project C\Akhi Okhee\obj\Debug\3.4. Client-Dokumen\301.baml
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\0. Assets\Res1.resx
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\0. Assets\Res1.Designer.cs
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\0. Assets\desa.csv
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\0. Assets\kec.csv
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\Akhi Okhee.exe.config
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\Akhi Okhee.exe
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\Akhi Okhee.pdb
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\EntityFramework.dll
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\EntityFramework.xml
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.1. Client-Login\Main.g.cs
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.1. Client-Login\setting.g.cs
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Main.g.cs
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Barang.g.cs
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_DSRT.g.cs
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Entri.g.cs
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Entri_Item.g.cs
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.4. Client-Dokumen\301.g.cs
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Main.g.cs
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Page_1.g.cs
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Page_2.g.cs
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\MainWindow.g.cs
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\App.g.cs
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\Akhi Okhee_MarkupCompile.cache
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\Akhi Okhee_MarkupCompile.lref
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.1. Client-Login\Main.baml
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.1. Client-Login\setting.baml
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Main.baml
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Barang.baml
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_DSRT.baml
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Entri.baml
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Entri_Item.baml
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.4. Client-Dokumen\301.baml
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Main.baml
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Page_1.baml
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Page_2.baml
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\MainWindow.baml
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\Akhi Okhee.g.resources
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\Akhi_Okhee._0._Assets.Res1.resources
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\Akhi_Okhee.Properties.Resources.resources
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\Akhi Okhee.csproj.GenerateResource.cache
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\Akhi Okhee.csproj.CoreCompileInputs.cache
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\Akhi Okhee.csproj.CopyComplete
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\Akhi Okhee.exe
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\Akhi Okhee.pdb
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\System.Buffers.dll
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\System.Memory.dll
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\System.Numerics.Vectors.dll
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\System.Buffers.xml
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\System.Memory.xml
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\System.Numerics.Vectors.xml
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_DSRT.g.cs
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Beranda.g.cs
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Akun.g.cs
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\EntityFramework.SqlServer.dll
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\EntityFramework.SqlServer.xml
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_DSRT.baml
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Beranda.baml
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Akun.baml
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\0. Assets\import_dsrt.xls
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\0. Assets\import_range.xls
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_Akun.g.cs
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_Akun.baml
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_Barang.g.cs
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_Barang.baml
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.1. Client-Login\Main.g.cs
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.1. Client-Login\setting.g.cs
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_Akun.g.cs
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_Barang.g.cs
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_DSRT.g.cs
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Main.g.cs
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Akun.g.cs
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Barang.g.cs
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Beranda.g.cs
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_DSRT.g.cs
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Entri.g.cs
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.4. Client-Dokumen\301.g.cs
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Main.g.cs
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Page_1.g.cs
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Page_2.g.cs
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\MainWindow.g.cs
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\App.g.cs
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\Akhi Okhee_MarkupCompile.cache
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\Akhi Okhee_MarkupCompile.lref
+H:\aksi-okhee\bin\Debug\0. Assets\Res1.resx
+H:\aksi-okhee\bin\Debug\0. Assets\Res1.Designer.cs
+H:\aksi-okhee\bin\Debug\0. Assets\desa.csv
+H:\aksi-okhee\bin\Debug\0. Assets\import_dsrt.xls
+H:\aksi-okhee\bin\Debug\0. Assets\import_range.xls
+H:\aksi-okhee\bin\Debug\0. Assets\kec.csv
+H:\aksi-okhee\bin\Debug\Akhi Okhee.exe.config
+H:\aksi-okhee\bin\Debug\Akhi Okhee.exe
+H:\aksi-okhee\bin\Debug\Akhi Okhee.pdb
+H:\aksi-okhee\bin\Debug\EntityFramework.dll
+H:\aksi-okhee\bin\Debug\EntityFramework.SqlServer.dll
+H:\aksi-okhee\bin\Debug\System.Buffers.dll
+H:\aksi-okhee\bin\Debug\System.Data.SQLite.dll
+H:\aksi-okhee\bin\Debug\System.Data.SQLite.EF6.dll
+H:\aksi-okhee\bin\Debug\System.Data.SQLite.Linq.dll
+H:\aksi-okhee\bin\Debug\System.Memory.dll
+H:\aksi-okhee\bin\Debug\System.Numerics.Vectors.dll
+H:\aksi-okhee\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\aksi-okhee\bin\Debug\EntityFramework.xml
+H:\aksi-okhee\bin\Debug\EntityFramework.SqlServer.xml
+H:\aksi-okhee\bin\Debug\System.Buffers.xml
+H:\aksi-okhee\bin\Debug\System.Data.SQLite.xml
+H:\aksi-okhee\bin\Debug\System.Data.SQLite.dll.config
+H:\aksi-okhee\bin\Debug\System.Memory.xml
+H:\aksi-okhee\bin\Debug\System.Numerics.Vectors.xml
+H:\aksi-okhee\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\aksi-okhee\obj\Debug\3.1. Client-Login\Main.g.cs
+H:\aksi-okhee\obj\Debug\3.1. Client-Login\setting.g.cs
+H:\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_Akun.g.cs
+H:\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_Barang.g.cs
+H:\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_DSRT.g.cs
+H:\aksi-okhee\obj\Debug\3.3. Client-Main\Main.g.cs
+H:\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Akun.g.cs
+H:\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Barang.g.cs
+H:\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Beranda.g.cs
+H:\aksi-okhee\obj\Debug\3.3. Client-Main\Page_DSRT.g.cs
+H:\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Entri.g.cs
+H:\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Entri_Item.g.cs
+H:\aksi-okhee\obj\Debug\3.4. Client-Dokumen\301.g.cs
+H:\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Main.g.cs
+H:\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Page_1.g.cs
+H:\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Page_2.g.cs
+H:\aksi-okhee\obj\Debug\MainWindow.g.cs
+H:\aksi-okhee\obj\Debug\App.g.cs
+H:\aksi-okhee\obj\Debug\Akhi Okhee_MarkupCompile.cache
+H:\aksi-okhee\obj\Debug\Akhi Okhee_MarkupCompile.lref
+H:\aksi-okhee\obj\Debug\3.1. Client-Login\Main.baml
+H:\aksi-okhee\obj\Debug\3.1. Client-Login\setting.baml
+H:\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_Akun.baml
+H:\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_Barang.baml
+H:\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_DSRT.baml
+H:\aksi-okhee\obj\Debug\3.3. Client-Main\Main.baml
+H:\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Akun.baml
+H:\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Barang.baml
+H:\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Beranda.baml
+H:\aksi-okhee\obj\Debug\3.3. Client-Main\Page_DSRT.baml
+H:\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Entri.baml
+H:\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Entri_Item.baml
+H:\aksi-okhee\obj\Debug\3.4. Client-Dokumen\301.baml
+H:\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Main.baml
+H:\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Page_1.baml
+H:\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Page_2.baml
+H:\aksi-okhee\obj\Debug\MainWindow.baml
+H:\aksi-okhee\obj\Debug\Akhi Okhee.g.resources
+H:\aksi-okhee\obj\Debug\Akhi_Okhee._0._Assets.Res1.resources
+H:\aksi-okhee\obj\Debug\Akhi_Okhee.Properties.Resources.resources
+H:\aksi-okhee\obj\Debug\Akhi Okhee.csproj.GenerateResource.cache
+H:\aksi-okhee\obj\Debug\Akhi Okhee.csproj.CoreCompileInputs.cache
+H:\aksi-okhee\obj\Debug\Akhi Okhee.csproj.CopyComplete
+H:\aksi-okhee\obj\Debug\Akhi Okhee.exe
+H:\aksi-okhee\obj\Debug\Akhi Okhee.pdb
+H:\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Dialog_Konversi.g.cs
+H:\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Dialog_Konversi.baml
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\0. Assets\Res1.resx
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\0. Assets\Res1.Designer.cs
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\0. Assets\desa.csv
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\0. Assets\import_dsrt.xls
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\0. Assets\import_range.xls
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\0. Assets\kec.csv
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\Akhi Okhee.exe.config
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\Akhi Okhee.exe
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\Akhi Okhee.pdb
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\EntityFramework.dll
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\EntityFramework.SqlServer.dll
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\System.Buffers.dll
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\System.Memory.dll
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\System.Numerics.Vectors.dll
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\EntityFramework.xml
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\EntityFramework.SqlServer.xml
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\System.Buffers.xml
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\System.Memory.xml
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\System.Numerics.Vectors.xml
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Entri_Item.g.cs
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Dialog_Konversi.g.cs
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.1. Client-Login\Main.baml
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.1. Client-Login\setting.baml
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_Akun.baml
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_Barang.baml
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_DSRT.baml
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Main.baml
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Akun.baml
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Barang.baml
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Beranda.baml
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_DSRT.baml
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Entri.baml
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Entri_Item.baml
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.4. Client-Dokumen\301.baml
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Dialog_Konversi.baml
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Main.baml
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Page_1.baml
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Page_2.baml
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\MainWindow.baml
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\Akhi Okhee.g.resources
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\Akhi_Okhee._0._Assets.Res1.resources
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\Akhi_Okhee.Properties.Resources.resources
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\Akhi Okhee.csproj.GenerateResource.cache
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\Akhi Okhee.csproj.CoreCompileInputs.cache
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\Akhi Okhee.csproj.CopyComplete
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\Akhi Okhee.exe
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\Akhi Okhee.pdb
+D:\aksi-okhee\bin\Debug\0. Assets\Res1.resx
+D:\aksi-okhee\bin\Debug\0. Assets\Res1.Designer.cs
+D:\aksi-okhee\bin\Debug\0. Assets\desa.csv
+D:\aksi-okhee\bin\Debug\0. Assets\import_dsrt.xls
+D:\aksi-okhee\bin\Debug\0. Assets\import_range.xls
+D:\aksi-okhee\bin\Debug\0. Assets\kec.csv
+D:\aksi-okhee\bin\Debug\Akhi Okhee.exe.config
+D:\aksi-okhee\bin\Debug\Akhi Okhee.exe
+D:\aksi-okhee\bin\Debug\Akhi Okhee.pdb
+D:\aksi-okhee\bin\Debug\EntityFramework.dll
+D:\aksi-okhee\bin\Debug\EntityFramework.SqlServer.dll
+D:\aksi-okhee\bin\Debug\System.Buffers.dll
+D:\aksi-okhee\bin\Debug\System.Data.SQLite.dll
+D:\aksi-okhee\bin\Debug\System.Data.SQLite.EF6.dll
+D:\aksi-okhee\bin\Debug\System.Data.SQLite.Linq.dll
+D:\aksi-okhee\bin\Debug\System.Memory.dll
+D:\aksi-okhee\bin\Debug\System.Numerics.Vectors.dll
+D:\aksi-okhee\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\aksi-okhee\bin\Debug\EntityFramework.xml
+D:\aksi-okhee\bin\Debug\EntityFramework.SqlServer.xml
+D:\aksi-okhee\bin\Debug\System.Buffers.xml
+D:\aksi-okhee\bin\Debug\System.Data.SQLite.xml
+D:\aksi-okhee\bin\Debug\System.Data.SQLite.dll.config
+D:\aksi-okhee\bin\Debug\System.Memory.xml
+D:\aksi-okhee\bin\Debug\System.Numerics.Vectors.xml
+D:\aksi-okhee\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\aksi-okhee\obj\Debug\3.1. Client-Login\Main.g.cs
+D:\aksi-okhee\obj\Debug\3.1. Client-Login\setting.g.cs
+D:\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_Akun.g.cs
+D:\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_Barang.g.cs
+D:\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_DSRT.g.cs
+D:\aksi-okhee\obj\Debug\3.3. Client-Main\Main.g.cs
+D:\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Akun.g.cs
+D:\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Barang.g.cs
+D:\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Beranda.g.cs
+D:\aksi-okhee\obj\Debug\3.3. Client-Main\Page_DSRT.g.cs
+D:\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Entri.g.cs
+D:\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Entri_Item.g.cs
+D:\aksi-okhee\obj\Debug\3.4. Client-Dokumen\301.g.cs
+D:\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Dialog_Konversi.g.cs
+D:\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Main.g.cs
+D:\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Page_1.g.cs
+D:\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Page_2.g.cs
+D:\aksi-okhee\obj\Debug\MainWindow.g.cs
+D:\aksi-okhee\obj\Debug\App.g.cs
+D:\aksi-okhee\obj\Debug\Akhi Okhee_MarkupCompile.cache
+D:\aksi-okhee\obj\Debug\Akhi Okhee_MarkupCompile.lref
+D:\aksi-okhee\obj\Debug\3.1. Client-Login\Main.baml
+D:\aksi-okhee\obj\Debug\3.1. Client-Login\setting.baml
+D:\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_Akun.baml
+D:\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_Barang.baml
+D:\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_DSRT.baml
+D:\aksi-okhee\obj\Debug\3.3. Client-Main\Main.baml
+D:\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Akun.baml
+D:\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Barang.baml
+D:\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Beranda.baml
+D:\aksi-okhee\obj\Debug\3.3. Client-Main\Page_DSRT.baml
+D:\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Entri.baml
+D:\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Entri_Item.baml
+D:\aksi-okhee\obj\Debug\3.4. Client-Dokumen\301.baml
+D:\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Dialog_Konversi.baml
+D:\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Main.baml
+D:\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Page_1.baml
+D:\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Page_2.baml
+D:\aksi-okhee\obj\Debug\MainWindow.baml
+D:\aksi-okhee\obj\Debug\Akhi Okhee.g.resources
+D:\aksi-okhee\obj\Debug\Akhi_Okhee._0._Assets.Res1.resources
+D:\aksi-okhee\obj\Debug\Akhi_Okhee.Properties.Resources.resources
+D:\aksi-okhee\obj\Debug\Akhi Okhee.csproj.GenerateResource.cache
+D:\aksi-okhee\obj\Debug\Akhi Okhee.csproj.CoreCompileInputs.cache
+D:\aksi-okhee\obj\Debug\Akhi Okhee.csproj.CopyComplete
+D:\aksi-okhee\obj\Debug\Akhi Okhee.exe
+D:\aksi-okhee\obj\Debug\Akhi Okhee.pdb
+H:\aksi-okhee\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Dialog_Konversi.g.cs
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.4. Client-Dokumen\Dialog_Konversi.baml
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.1. Client-Login\Database.g.cs
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\BouncyCastle.Crypto.dll
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\Google.Protobuf.dll
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\K4os.Compression.LZ4.dll
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\K4os.Hash.xxHash.dll
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\MySql.Data.dll
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\MySqlBackup.dll
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\Renci.SshNet.dll
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\Ubiety.Dns.Core.dll
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\Zstandard.Net.dll
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\Google.Protobuf.xml
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\K4os.Compression.LZ4.xml
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\K4os.Hash.xxHash.xml
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\MySql.Data.xml
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\Renci.SshNet.xml
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.1. Client-Login\Database.baml
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_Export.g.cs
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Lock.g.cs
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_Export.baml
+F:\Budi\Development\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Lock.baml
+F:\Budi\Development\Project C\aksi-okhee\bin\Debug\ExcelLibrary.dll
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.1. Client-Login\Database.g.cs
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_Export.g.cs
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Lock.g.cs
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\BouncyCastle.Crypto.dll
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\ExcelLibrary.dll
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\Google.Protobuf.dll
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\K4os.Compression.LZ4.dll
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\K4os.Hash.xxHash.dll
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\MySql.Data.dll
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\MySqlBackup.dll
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\Renci.SshNet.dll
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\Ubiety.Dns.Core.dll
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\Zstandard.Net.dll
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\Google.Protobuf.xml
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\K4os.Compression.LZ4.xml
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\K4os.Hash.xxHash.xml
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\MySql.Data.xml
+E:\Pengembangan\Project C\aksi-okhee\bin\Debug\Renci.SshNet.xml
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.1. Client-Login\Database.baml
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Dialog_Export.baml
+E:\Pengembangan\Project C\aksi-okhee\obj\Debug\3.3. Client-Main\Page_Lock.baml
